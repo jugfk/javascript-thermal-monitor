@@ -22,13 +22,12 @@ npm install node-red-dashboard
 
 # 다운로드하기
 ```
-wget 
+wget https://raw.githubusercontent.com/jetsonworld/javascript-thermal-monitor/master/flows.json
 ```
 
 # 구동하기
 ```
 node-red
-
 ```
 
 # 노트
