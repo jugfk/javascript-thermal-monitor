@@ -24,6 +24,8 @@ npm install node-red-dashboard
 ```
 wget https://raw.githubusercontent.com/jetsonworld/javascript-thermal-monitor/master/flows.json
 ```
+위 주소를 복사해서 터미널에 입력한 후 엔터를 칩니다. flow.json 파일이 다운로드가 됩니다.
+
 
 # 업로드하기
 
