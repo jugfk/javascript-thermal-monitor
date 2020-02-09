@@ -47,6 +47,7 @@ localhost:1880 혹은 127.0.0.1:1880 을 아래와 같이
 
 <img src="./03_importing.png" alt="Screenshot" title="Screenshot">
 
+<img src="./04_uploading_flow.json.png" alt="Screenshot" title="Screenshot">
 
 
 # 노트
