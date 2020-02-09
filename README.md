@@ -7,22 +7,28 @@
 # 설치하기
 ```
 sudo apt update
-wget https://bootstrap.pypa.io/get-pip.py
-sudo python3 get-pip.py
-sudo apt install python3-pip
-sudo pip3 install numpy
-sudo pip3 install matplotlib
+sudo apt install nodejs
+sudo apt install npm
+sudo npm install -g --unsafe-perm node-red
+node -v
+npm -v
+
+cd .node-red
+npm install node-red-node-serialport
+npm install node-red-contrib-moment
+npm install node-red-dashboard
+
 ```
 
 # 다운로드하기
 ```
-git clone https://github.com/jetsonworld/jetson-thermal-monitor.git
+wget 
 ```
 
 # 구동하기
 ```
-cd jetson-thermal-monitor
-python3 jetson_temp_monitor.py
+node-red
+
 ```
 
 # 노트
