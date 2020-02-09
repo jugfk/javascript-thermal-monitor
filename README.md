@@ -2,9 +2,7 @@
 
 젯슨나노의 모듈타입 온도센서 출력하기
 
-젯슨나노의 모듈타입 온도센서 출력하기
-
-<img src="./jetson_temp_monitor.gif" alt="Screenshot" title="Screenshot">
+<img src="./javascript_temp_monitor.png" alt="Screenshot" title="Screenshot">
 
 # 설치하기
 ```
