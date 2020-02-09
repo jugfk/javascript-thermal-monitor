@@ -43,6 +43,7 @@ node-red
 localhost:1880 혹은 127.0.0.1:1880 을 아래와 같이 
 입력하세요.
 
+<img src="./02_localhost.png" alt="Screenshot" title="Screenshot">
 
 
 
