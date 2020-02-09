@@ -45,6 +45,7 @@ localhost:1880 혹은 127.0.0.1:1880 을 아래와 같이
 
 <img src="./02_localhost.png" alt="Screenshot" title="Screenshot">
 
+<img src="./03_importing.png" alt="Screenshot" title="Screenshot">
 
 
 
