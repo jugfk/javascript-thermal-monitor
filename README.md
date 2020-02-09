@@ -49,6 +49,8 @@ localhost:1880 혹은 127.0.0.1:1880 을 아래와 같이
 
 <img src="./04_uploading_flow.json.png" alt="Screenshot" title="Screenshot">
 
+<img src="./05_dashboard.png" alt="Screenshot" title="Screenshot">
+
 
 # 노트
 - 이 매뉴얼은 젯슨나노에서만 테스트했습니다.
