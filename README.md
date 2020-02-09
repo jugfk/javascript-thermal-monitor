@@ -25,10 +25,17 @@ npm install node-red-dashboard
 wget https://raw.githubusercontent.com/jetsonworld/javascript-thermal-monitor/master/flows.json
 ```
 
+# 업로드하기
+
+방금 다운로드한 flow.json 파일을 업로드하기 위해서 터미널에서 node-red를 입력한후 엔터를 칩니다.
+
 # 구동하기
 ```
 node-red
 ```
+
+<img src="./01_node-red_log.png" alt="Screenshot" title="Screenshot">
+
 
 # 노트
 - 이 매뉴얼은 젯슨나노에서만 테스트했습니다.
