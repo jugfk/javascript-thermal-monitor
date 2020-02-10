@@ -13,6 +13,8 @@ sudo npm install -g --unsafe-perm node-red
 node -v
 npm -v
 
+node-red
+Ctrl + C 키로 종료합니다. 그런다음 .node-red 폴더가 생깁니다.
 cd .node-red
 npm install node-red-node-serialport
 npm install node-red-contrib-moment
